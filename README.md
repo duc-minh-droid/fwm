@@ -17,7 +17,13 @@ The website boasts a sleek design as well as a feature to indicate local food ba
 Tech Used:
 The Frontend is handled by React and Firebase
 
-The Backend is composed by Python and Django
+--------------------------------------------------------------
+
+Instructions to run project locally:
+
+1. Fork the project
+2. Run <code>npm i</code> in the terminal
+3. Run <code>npm start</code>
 
 --------------------------------------------------------------
 
