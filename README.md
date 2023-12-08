@@ -60,7 +60,7 @@ Users must search for the items they currently possess and them to their invento
 <br>
 <img width="430" alt="inventory5" src="https://github.com/duc-minh-droid/food-waste-management-website/assets/111776997/75c89d57-e942-4f11-9bf3-8b04e30fbcc8">
 <br>
-Users must also specify the date of expiry of the items; this will in determining the timescale and when to prepare what meal.
+Users must also specify the date of expiry of the items; this will help in determining the timescale and when to prepare what meal.
 <br>
 <img width="781" alt="recipes" src="https://github.com/duc-minh-droid/food-waste-management-website/assets/111776997/86f0f0d3-c5fb-4421-8abc-40d992e53767">
 <br>
@@ -80,7 +80,7 @@ Once an item in the list has been collected, the user can promptly tick the corr
 <br>
 <img width= "575" alt="shopping3" src="https://github.com/duc-minh-droid/food-waste-management-website/assets/111776997/51625f21-e421-4793-8c64-9c2034bc3777">
 <br>
-... Leaving the list decremented by 1.
+... Leaving the list decremented by 1. The item removed from the shopping list gets added to the inventory list.
 <br>
 
 --------------------------------------------------------------
